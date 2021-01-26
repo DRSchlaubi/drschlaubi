@@ -1,1 +1,2 @@
 Where is this template?
+![Metrics](https://metrics.lecoq.io/DRSchlaubi?template=terminal&followup=1&languages=1&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FBerlin&config.animated=true)
