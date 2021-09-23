@@ -269,7 +269,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 23/09/2021, 16:02
+Last generated: 23/09/2021, 17:02
 </div>
 <div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Michael Rittmeister</b> registered=5y, uid=0205, gid=18
   contributed to 127 repositories <b><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span></b>
@@ -294,24 +294,24 @@ Last generated: 23/09/2021, 16:02
 -r--  <b>   77</b>  watchers
 dr-x  <b>    2</b>  packages
 dr-x  <b>   44</b>  ISSUES
--r--  <b>   26</b>  ├── open
--r--  <b>   18</b>  └── closed
+-r--  <b>   23</b>  ├── open
+-r--  <b>   21</b>  └── closed
 dr-x  <b>   44</b>  PULL_REQUESTS
 -r--  <b>    3</b>  ├── open
 -r--  <b>   30</b>  └── merged
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#########           ] 43.38%
-<b>KOTLIN      </b> [#####               ] 20.99%
-<b>HTML        </b> [#####               ] 20.08%
-<b>PYTHON      </b> [##                  ] 5.49 %
-<b>CSS         </b> [#                   ] 4.26 %
-<b>DART        </b> [#                   ] 3.28 %
-<b>JAVASCRIPT  </b> [#                   ] 1.69 %
+<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#########           ] 43.11%
+<b>KOTLIN      </b> [#####               ] 21.50%
+<b>HTML        </b> [####                ] 19.95%
+<b>PYTHON      </b> [##                  ] 5.46 %
+<b>CSS         </b> [#                   ] 4.23 %
+<b>DART        </b> [#                   ] 3.25 %
+<b>JAVASCRIPT  </b> [#                   ] 1.68 %
 <b>PHP         </b> [#                   ] 0.83 %
 </div>
-<footer>Connection reset by 182.38.235.207</footer></pre>
+<footer>Connection reset by 65.147.87.128</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
