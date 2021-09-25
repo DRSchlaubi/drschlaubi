@@ -269,7 +269,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 25/09/2021, 18:02
+Last generated: 25/09/2021, 19:04
 </div>
 <div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Michael Rittmeister</b> registered=5y, uid=0205, gid=18
   contributed to 121 repositories <b><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span></b>
@@ -302,16 +302,16 @@ dr-x  <b>   46</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#########           ] 42.80%
-<b>KOTLIN      </b> [#####               ] 22.06%
-<b>HTML        </b> [####                ] 19.81%
-<b>PYTHON      </b> [##                  ] 5.42 %
-<b>CSS         </b> [#                   ] 4.20 %
-<b>DART        </b> [#                   ] 3.23 %
-<b>JAVASCRIPT  </b> [#                   ] 1.67 %
+<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#########           ] 42.67%
+<b>KOTLIN      </b> [#####               ] 22.28%
+<b>HTML        </b> [####                ] 19.75%
+<b>PYTHON      </b> [##                  ] 5.40 %
+<b>CSS         </b> [#                   ] 4.19 %
+<b>DART        </b> [#                   ] 3.22 %
+<b>JAVASCRIPT  </b> [#                   ] 1.66 %
 <b>PHP         </b> [#                   ] 0.82 %
 </div>
-<footer>Connection reset by 36.56.247.83</footer></pre>
+<footer>Connection reset by 203.140.79.39</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
