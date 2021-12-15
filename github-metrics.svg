@@ -285,10 +285,10 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 15 Dec 2021, 08:02:09
+Last generated: 15 Dec 2021, 09:02:22
 </div>
 <div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Michael Rittmeister</b> registered=6y, uid=0205, gid=18
-  contributed to 130 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 130 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>51</b> users
 </div>
 <div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -318,18 +318,18 @@ dr-x  <b>   60</b>  PULL_REQUESTS
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [########            ] 37.92%
-<b>KOTLIN      </b> [#######             ] 31.02%
-<b>HTML        </b> [####                ] 17.52%
-<b>PYTHON      </b> [#                   ] 4.79 %
-<b>CSS         </b> [#                   ] 3.71 %
-<b>DART        </b> [#                   ] 2.84 %
+<div class="stdin"><span class="ps1-path">drschlaubi@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [########            ] 37.83%
+<b>KOTLIN      </b> [#######             ] 31.18%
+<b>HTML        </b> [####                ] 17.48%
+<b>PYTHON      </b> [#                   ] 4.78 %
+<b>CSS         </b> [#                   ] 3.70 %
+<b>DART        </b> [#                   ] 2.83 %
 <b>JAVASCRIPT  </b> [#                   ] 1.47 %
 <b>PHP         </b> [#                   ] 0.73 %
 </div>
 
 
-<footer>Connection reset by 86.244.124.61</footer></pre>
+<footer>Connection reset by 183.213.201.11</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
